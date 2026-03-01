@@ -87,3 +87,6 @@ MIT License. Contributions and PRs are welcome!
 ### Acknowledgments
 - The `NimBLE-Arduino` community.
 - The [`csTimer`](https://github.com/cs0x7f/cstimer) project and its excellent [GAN Timer driver](https://github.com/cs0x7f/cstimer/blob/master/src/js/hardware/gantimer.js) reference.
+---
+
+"This project was conceptualized by me and implemented in 2 hours with the help of AI pair programming." (本项目由我构思，并在 AI 结对编程的辅助下耗时两小时实现。)
